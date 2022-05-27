@@ -1,0 +1,19 @@
+Wordle by Joe
+
+Wordle is a logic word game invented in 2021 by a Welsh software engineer, Josh
+Wardle.  The game is now owned by the New York Times.
+
+"Wordle by Joe" was written by Joe Bentley in 2022. Joe wrote it as a challenge
+to closely copy the original design.  The New York Times Wordle is a web-based
+application.  Joe's game was written in C++ using SFML libraries for graphics,
+sound, mouse and keyborad controls.  It currently runs on Windows and Linux.
+
+How to play
+
+The goal of the game is to guess a 5-letter word in the least number of guesses.
+You are permitted a maximum of 6 guesses.  Type your guess using a keyboard or
+the virtual keyboad at the bottom of the game window.  Submit your guess using
+Enter.  After entering your guess, it will be evaluated using the following logic:  
+
+
+
