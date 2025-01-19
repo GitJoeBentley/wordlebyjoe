@@ -353,6 +353,7 @@ bully
 bumpy
 bunch
 bunny
+burka
 burly
 burnt
 burro
@@ -377,6 +378,7 @@ caddy
 cadet
 cadre
 caged
+cager
 cagey
 cairn
 caked
@@ -518,6 +520,7 @@ conch
 condo
 conga
 conic
+coped
 copse
 coral
 corer
@@ -588,6 +591,7 @@ crypt
 cubic
 cubit
 cumin
+cured
 curio
 curly
 curry
@@ -722,6 +726,7 @@ dully
 dummy
 dumpy
 dunce
+duped
 dusky
 dusty
 dutch
@@ -967,6 +972,7 @@ fungi
 funky
 funny
 furry
+fused
 fussy
 futon
 fuzzy
@@ -1496,6 +1502,7 @@ mount
 mourn
 mouse
 mouth
+moved
 mover
 movie
 mowed
@@ -1510,6 +1517,7 @@ mummy
 munch
 mural
 murky
+mused
 mushy
 music
 musky
@@ -1742,6 +1750,7 @@ pooch
 poppy
 porch
 pored
+porky
 posed
 poser
 posey
@@ -1866,6 +1875,7 @@ rebut
 recap
 recur
 recut
+redid
 reedy
 refer
 refit
@@ -2569,6 +2579,7 @@ upend
 upper
 upset
 urban
+urged
 urine
 usage
 usher
